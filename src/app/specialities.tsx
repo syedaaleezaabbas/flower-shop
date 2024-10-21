@@ -36,7 +36,7 @@ export default function Specialities() {
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
                     <div className="flex flex-col items-center">
                         <div className="w-[300px] h-[300px] md:w-[350px] md:h-[350px]">
-                            <Image src="/Sunflowers1.webp" alt="sunflowers" width={350} height={350} className="rounded-lg shadow-lg object-cover w-full h-full transition-transform duration-300 hover:scale-105 hover:shadow-2xl" /></div>
+                            <Image src="/Sunflowers.webp" alt="sunflowers" width={350} height={350} className="rounded-lg shadow-lg object-cover w-full h-full transition-transform duration-300 hover:scale-105 hover:shadow-2xl" /></div>
                         <h3 className="text-2xl font-bold mt-2 mb-2">Sunflowers</h3>
                         <p className="mb-3 md:mb-0">Bright and cheerful sunflowers to light up any space.</p>
                     </div>
