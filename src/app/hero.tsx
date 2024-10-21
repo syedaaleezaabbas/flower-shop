@@ -1,5 +1,3 @@
-import Image from "next/image"
-
 export default function Hero() {
     return (
         <section className="bg-[url('/bg-img.avif')] bg-cover min-h-[400px] md:min-h-[500px] py-12">
