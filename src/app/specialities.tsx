@@ -72,7 +72,7 @@ export default function Specialities() {
                         <div className="w-[300px] h-[300px] md:w-[350px] md:h-[350px]">
                             <Image src="/iris.avif" alt="iris" width={350} height={350} className="rounded-lg shadow-lg object-cover w-full h-full transition-transform duration-300 hover:scale-105 hover:shadow-2xl" /></div>
                         <h3 className="text-2xl font-bold mt-2 mb-2">Iris</h3>
-                        <p className="mb-4 md:mb-0">The iris with it's striking purple petals, symbolizes elegance and serenity.</p>
+                        <p className="mb-4 md:mb-0">The iris with its striking purple petals, symbolizes elegance and serenity.</p>
                     </div>
 
 
