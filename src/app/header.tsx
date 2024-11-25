@@ -1,6 +1,5 @@
 import Link from "next/link";
 import { FaCartShopping } from "react-icons/fa6";
-import { RxHamburgerMenu } from "react-icons/rx";
 import { Menu } from "lucide-react";
 import {
     Sheet,
@@ -35,7 +34,7 @@ export default function Header() {
                 </SheetTrigger>
                 <SheetContent className="bg-gray-400 border-l-4 border-l-purple-500">
                     <nav>
-                        <ul className="flex flex-col text-center pt-20 gap-y-4">
+                        <ul className="text-xl flex flex-col text-center pt-20 gap-y-6">
                             <li><Link href="/" className="text-black hover:text-purple-500">Home</Link></li>
                             <li><Link href="/About" className="text-black hover:text-purple-500">About</Link></li>
                             <li><Link href="/shop" className="text-black hover:text-purple-500">Shop</Link></li>
